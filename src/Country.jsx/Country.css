@@ -1,0 +1,19 @@
+.bg {
+  background-color: antiquewhite;
+  margin-top: 10px;
+}
+.visited {
+  background-color: aqua;
+}
+.after-clicked {
+  background-color: rgb(160, 190, 241);
+  border: 3px solid tomato;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.initialize {
+  border: 3px solid tomato;
+  border-radius: 20px;
+  padding: 20px;
+}
